@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d0f22d1-d55f-40a5-a1c0-ad63bc537a9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/Image/Banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MainBanner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MainBanner.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MainFooter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MainFooter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MainHeader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MainHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MainNav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MainNav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Game.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Game.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Game2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Game3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Game4.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LoginWeb.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/UnityReact.data.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/UnityReact.framework.js.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/UnityReact.loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/UnityReact.wasm.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2VR4onkWZ3UHH4Ww9MbXVRwIIFv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Tecsup 2022 -/Cuarto ciclo/SolucionesCloud/Examen/cloudgames/src/pages",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\Tecsup 2022 -\\Cuarto ciclo\\SolucionesCloud\\Examen\\cloudgames\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tecsup 2022 -\Cuarto ciclo\SolucionesCloud\Examen\cloudgames\src\pages" />
+      <recent name="E:\Tecsup4ºCiclo\Soluciones Cloud\cloudgames\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Tecsup4ºCiclo\Soluciones Cloud\cloudgames\src\assets\Image" />
+      <recent name="E:\Tecsup4ºCiclo\Soluciones Cloud\cloudgames\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d0f22d1-d55f-40a5-a1c0-ad63bc537a9d" name="Changes" comment="" />
+      <created>1694785736549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694785736549</updated>
+      <workItem from="1694785737832" duration="4525000" />
+      <workItem from="1694924663434" duration="185000" />
+      <workItem from="1694924862665" duration="46000" />
+      <workItem from="1694926225688" duration="103000" />
+      <workItem from="1694963626303" duration="618000" />
+      <workItem from="1695003743329" duration="614000" />
+      <workItem from="1695004525058" duration="76000" />
+      <workItem from="1695352273616" duration="118000" />
+      <workItem from="1695389476496" duration="10527000" />
+      <workItem from="1695434341620" duration="3769000" />
+      <workItem from="1695494290151" duration="207000" />
+      <workItem from="1695495527181" duration="1445000" />
+      <workItem from="1695513698688" duration="4724000" />
+      <workItem from="1695524465963" duration="1043000" />
+      <workItem from="1695532688268" duration="4323000" />
+      <workItem from="1695610766737" duration="5180000" />
+      <workItem from="1695617768519" duration="76000" />
+      <workItem from="1695688585800" duration="1252000" />
+      <workItem from="1695693071338" duration="1755000" />
+      <workItem from="1696002553484" duration="1812000" />
+      <workItem from="1696006939713" duration="239000" />
+      <workItem from="1696610158626" duration="1629000" />
+      <workItem from="1696626794309" duration="2209000" />
+      <workItem from="1696702871488" duration="2842000" />
+      <workItem from="1696739351257" duration="1689000" />
+      <workItem from="1696793015570" duration="1658000" />
+      <workItem from="1697859804398" duration="4150000" />
+      <workItem from="1697949636882" duration="533000" />
+      <workItem from="1698460720625" duration="1138000" />
+      <workItem from="1699200811010" duration="4409000" />
+      <workItem from="1699630071915" duration="53000" />
+      <workItem from="1699632034169" duration="2302000" />
+      <workItem from="1700324992069" duration="650000" />
+      <workItem from="1700329413819" duration="4551000" />
+      <workItem from="1700334352512" duration="332000" />
+      <workItem from="1700340674443" duration="6000" />
+      <workItem from="1700340745290" duration="6010000" />
+      <workItem from="1700361136153" duration="4654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.tsx</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.tsx</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/common/MainNav.tsx</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
